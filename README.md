@@ -1,4 +1,4 @@
-# L06E02: Data 2
+# H02: Data 2
 Balíček `data` z minulého semináře rozšiřte o následující funkcionalitu. Ve zdrojovém kódu urdžujte pořádek a metody seskupujte dle významu.
 
 ## Metoda `__len__`
